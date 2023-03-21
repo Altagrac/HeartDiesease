@@ -5,12 +5,12 @@ I was ask to use those data to find the most suitable classification model to pr
 
 To do that, i proceeded as follow: 
 ### *Insights : size, missing values* ..
-### Data vizualisation
-### Data normalization 
-### Preprocessing
-### Implementing classification models 
-### Evalution 
-### Confusion Matrix 
+### *Data vizualisation*
+### *Data normalization* 
+### *Preprocessing*
+### *Implementing classification models* 
+### *Evalution*
+### *Confusion Matrix* 
 ### *Improvement*
 
 
